@@ -1,4 +1,7 @@
-;
+#include <iostream>
+using namespace std;
+int main(){
+	int i, j;
 	cout<<"Enter size of the array:-\n";
 	cin>>n;
 	char a[n][n];
